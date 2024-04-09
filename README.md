@@ -1,6 +1,6 @@
 # ⚙BouCrypt⚙
 
-Script to generate / encrypt / decrypt a file.
+Script to generate key / encrypt / decrypt a file.
 
 Made with python.
 
