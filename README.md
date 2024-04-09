@@ -18,6 +18,17 @@ Install requirements !
 - (leave the program)
 
 
+##  Warning !
+ 
+When the program asks for the file name, you can take several actions:
+
+DON'T FORGET THE EXTENSION
+
+- File path: C:/desktop/file.txt
+
+- Enter the file name if it is in the same directory as the program.
+
+- If it is not, the program will search for the file throughout your computer."
 
 ## Screenshot
 Menu :
