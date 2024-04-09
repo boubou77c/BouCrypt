@@ -28,7 +28,7 @@ DON'T FORGET THE EXTENSION
 
 - Enter the file name if it is in the same directory as the program.
 
-- If it is not, the program will search for the file throughout your computer."
+- If it is not, the program will search for the file throughout your computer. (it searches in C://)
 
 ## Screenshot
 Menu :
